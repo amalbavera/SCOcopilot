@@ -1,2 +1,2 @@
 # SCOcopilot
-Spin-Crossover copilot based on an Equivariant Graph Convolutional Neural Network
+Spin-Crossover copilot based on Equivariant Graph Convolutional Neural Networks
