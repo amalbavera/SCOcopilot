@@ -49,7 +49,7 @@ spin_crossover = query()
 spin_crossover("path/to/file.xyz")
 ```
 
-Default units are eV, but can be changed with the option `units="kJ/mol"` ot `units="kcal/mol"`. It also is possible to deactivate the `verbose` environment:
+Default units are eV, but can be changed with the option `units="kJ/mol"` or `units="kcal/mol"`. It also is possible to deactivate the `verbose` environment:
 
 ```python
 from scocopilot import query
